@@ -1,0 +1,10 @@
+first_number = float(input("1st number: "))
+second_number = float(input("2st number: "))
+sum = first_number + second_number
+subtraction = first_number - second_number
+multiplication = first_number * second_number
+division = first_number / second_number
+print("Sum = %f" %sum)
+print("Subtration = %f" %subtraction)
+print("Multiplication = %f" %multiplication)
+print("Division = %f" %division)
